@@ -1,8 +1,7 @@
 # vanshsingh_44
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:378ADD&height=120§ion=header&text=Hi,%20I'm%20Vansh%20Singh%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&width=500&lines=CS+Student+%7C+C+%2F+JS+%2F+Python+Dev;From+pointers+to+pixels+%F0%9F%9A%80;Always+learning%2C+always+building)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&width=500&lines=CS+Student+%7C+C+%2F+JS+%2F+Python+Dev;From+pointers+to+pixels;Always+learning%2C+always+building)](https://git.io/typing-svg)
 CS student who started with C and now builds full-stack apps with
 JavaScript, React & Python. I love understanding how things work
 from the ground up — from pointers to pixels.
